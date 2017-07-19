@@ -1,0 +1,10 @@
+[package]
+name = "boulderdash"
+version = "0.1.0"
+authors = ["David"]
+
+[dependencies]
+rand = "0.3"
+vecmath = "0.3.0"
+piston_window = "0.65.0"
+find_folder = "*"
